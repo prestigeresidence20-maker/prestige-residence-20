@@ -367,8 +367,8 @@
           <h1>Prestige Residence</h1>
           <div class="zones">Ajaccio · Porticcio · Coti-Chiavari</div>
 
-          <p>
-            Nous prenons en charge votre logement de A à Z : gestion des annonces, accueil,
+          <p>style="color: white;"
+          Nous prenons en charge votre logement de A à Z : gestion des annonces, accueil,
             ménage professionnel, linge, entretien intérieur/extérieur et services sur mesure.
             Objectif : une expérience irréprochable pour vos voyageurs et une tranquillité totale pour vous.
           </p>
