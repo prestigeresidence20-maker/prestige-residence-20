@@ -8,7 +8,9 @@
 
   <style>
     :root{
-      --bg-wood-1:#e7e1d8;
+      .text-white{
+  color: #ffffff !important;
+  text-shadow: 0 2px 10px rgba(0,0,0,.6);      --bg-wood-1:#e7e1d8;
       --bg-wood-2:#d9d1c6;
      :root{
   --bg-wood-1:#e7efe9;
