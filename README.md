@@ -509,7 +509,7 @@
               <a class="btn btn-ghost" href="mailto:prestige.residence20@gmail.com">Écrire un email</a>
               <a class="btn btn-ghost" href="tel:+33682916874">Appeler</a>
             </div>
-            <small style="color:var(--muted);">
+            <small style="color:white;">
               Astuce : pour un traitement plus rapide, ajoute si possible l’adresse (ou quartier) et des photos.
             </small>
           </form>
