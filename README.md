@@ -78,7 +78,7 @@
     }
     .brandtext span{
       font-size: 12px;
-      color: var(--muted);
+      color: white;
     }
     nav{
       display:flex; gap:14px; flex-wrap:wrap; justify-content:flex-end;
@@ -113,7 +113,7 @@
       background: rgba(255,255,255,.65);
       border:1px solid rgba(0,0,0,.12);
       box-shadow:none;
-      color: var(--ink);
+      color: white;
     }
 
     /* --- Hero --- */
@@ -139,7 +139,7 @@
       font-weight:700;
       letter-spacing:.08em;
       text-transform: uppercase;
-      color: var(--muted);
+      color: white;
       font-size: 12px;
       margin-bottom: 14px;
     }
@@ -158,7 +158,7 @@
     .zones{
       margin: 10px 0 0;
       font-size: 18px;
-      color: var(--muted);
+      color: white;
     }
     .hero p{
       margin: 14px 0 0;
