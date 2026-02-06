@@ -9,7 +9,8 @@
 
   
 <div class="logo">
-  <img src="logo.png" alt="Logo Prestige Residence">.logo{
+  <img src="logo.png" alt="Logo Prestige Residence">.logo width:110px;
+  height:110px;{
 }
 </div>
 
