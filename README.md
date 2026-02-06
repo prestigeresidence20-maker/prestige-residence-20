@@ -78,7 +78,7 @@
     }
     .brandtext span{
       font-size: 12px;
-      color: #0f3d2e;    }
+      color: white; }
     nav{
       display:flex; gap:14px; flex-wrap:wrap; justify-content:flex-end;
     }
