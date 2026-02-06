@@ -37,7 +37,7 @@
 
   background:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
-    url("fond.jpg");
+    url("villa.jpg");
 
   background-size: cover;
   background-position: center;
