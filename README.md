@@ -195,7 +195,7 @@
     .section-bar{
       margin: 18px 0 0;
       background: var(--bar);
-      color: var(--barText);
+      color: white;(--barText);
       padding: 16px 0;
     }
     .bar-title{
