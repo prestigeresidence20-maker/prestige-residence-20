@@ -1,6 +1,8 @@
 # votre conciergerie
 <html lang="fr">
-logo.png
+<div class="logo">
+  <img src="logo.png" alt="Logo Prestige Residence">
+</div>
 
 
   
