@@ -180,7 +180,7 @@
       border:1px solid rgba(0,0,0,.10);
       border-radius: 14px;
     }
-    .pill small{ display:block; color: var(--muted); font-weight:700; letter-spacing:.04em; }
+    .pill small{ display:block; color: white;(--muted); font-weight:700; letter-spacing:.04em; }
     .pill strong{ display:block; font-size: 16px; }
     .icon{
       width:40px; height:40px;
