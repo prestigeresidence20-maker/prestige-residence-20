@@ -238,7 +238,7 @@
     }
     .service p{
       margin:6px 0 0;
-      color: var(--muted);
+      color: white;
       line-height: 1.5;
       font-size: 14px;
     }
@@ -273,7 +273,7 @@
     ul.steps{
       margin: 0;
       padding-left: 18px;
-      color: var(--muted);
+      color: white;
       line-height: 1.7;
     }
 
