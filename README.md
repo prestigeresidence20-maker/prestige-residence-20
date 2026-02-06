@@ -11,6 +11,8 @@
 <div class="logo">
   <img src="logo.png" alt="Logo Prestige Residence">.logo width:110px;
   height:110px;{
+}.logo{
+  margin-top:20px;
 }
 </div>
 
