@@ -108,7 +108,7 @@
       white-space: nowrap;
     }
     .btn:active{ transform: translateY(1px); }
-    .btn-primary{ background: var(--bar); color: var(--barText); }
+    .btn-primary{ background: var(--bar); color: white(--barText); }
     .btn-ghost{
       background: rgba(255,255,255,.65);
       border:1px solid rgba(0,0,0,.12);
