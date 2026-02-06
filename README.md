@@ -13,12 +13,9 @@
      :root{
   --bg-wood-1:#e7efe9;
   --bg-wood-2:#d8e4dd;
-
-  /* Vert anglais */
-  --ink:#0f2e22;
-  --muted:#355c4a;
-  --bar:#0b3d2e;        /* bandeau vert anglais */
-  --barText:#eaf5ef;
+--ink:#ffffff;
+  --muted:#dddddd;
+  --barText:#ffffff;  
 
   --accent:#145c45;
   --card:#ffffffd9;
