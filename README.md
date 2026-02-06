@@ -13,7 +13,7 @@
      :root{
   --bg-wood-1:#e7efe9;
   --bg-wood-2:#d8e4dd;
---ink:#ffffff;
+  --ink:#ffffff;
   --muted:#dddddd;
   --barText:#ffffff;  
 
