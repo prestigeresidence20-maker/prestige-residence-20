@@ -495,7 +495,7 @@
         <div class="panel">
           <h2>Demander un devis gratuit</h2>
           <p style="margin:0;color:var(--muted);line-height:1.7;">
-            Décris ton logement (type, nombre de couchages, localisation, besoins) et on te répond rapidement.
+            Décrivez votre logement (type, nombre de couchages, localisation, besoins) et je vous répondrai trés rapidement.
           </p>
 
           <!-- Formulaire: envoi mail via "mailto" (simple). Pour un vrai site, on branchera un formulaire serveur. -->
@@ -510,7 +510,7 @@
               <a class="btn btn-ghost" href="tel:+33682916874">Appeler</a>
             </div>
             <small style="color:white;">
-              Astuce : pour un traitement plus rapide, ajoute si possible l’adresse (ou quartier) et des photos.
+              Astuce : pour un traitement plus rapide, ajoutez si possible l’adresse (ou quartier) et des photos.
             </small>
           </form>
         </div>
