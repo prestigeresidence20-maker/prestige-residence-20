@@ -1,16 +1,17 @@
 # votre conciergerie
 <html lang="fr">
-<div class="logo">
-  <img src="logo.png" alt="Logo Prestige Residence">
-</div>
-
-
   
 <head>
   <meta charset="utf-8" />
   <meta name="viewport" content="width=device-width, initial-scale=1" />
   <title>Prestige Residence — Conciergerie & Nettoyage</title>
   <meta name="description" content="Conciergerie et nettoyage haut de gamme à Ajaccio, Porticcio et Coti-Chiavari. Gestion d’annonces, ménage, linge, entretien et services sur mesure." />
+<div class="logo">
+  <img src="logo.png" alt="Logo Prestige Residence">
+</div>
+
+
+  
   <style>
     :root{
       .text-white{
