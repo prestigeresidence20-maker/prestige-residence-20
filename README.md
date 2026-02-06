@@ -31,19 +31,17 @@
 
     /* --- Faux bois (CSS) --- */
     body{
-      margin:0;
-      font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial, "Apple Color Emoji","Segoe UI Emoji";
-      color:var(--ink);
-      background:
-        linear-gradient(0deg, rgba(255,255,255,.25), rgba(255,255,255,.25)),
-        repeating-linear-gradient(
-          90deg,
-          var(--bg-wood-1) 0px,
-          var(--bg-wood-1) 10px,
-          var(--bg-wood-2) 22px,
-          var(--bg-wood-1) 34px
-        );
-      background-attachment: fixed;
+  margin:0;
+  font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
+  color:var(--ink);
+
+  background:
+    linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
+    url("fond.jpg");
+
+  background-size: cover;
+  background-position: center;
+  background-attachment: fixed;
     }
 
     a{ color:inherit; text-decoration:none; }
