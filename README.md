@@ -1,5 +1,25 @@
 # votre conciergerie
 <html lang="fr">
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
   
 <head>
   <meta charset="utf-8" />
@@ -14,8 +34,6 @@
   
 <div class="logo">
   <img src="logo.png" alt="Logo Prestige Residence">.logo{
-  width:80px;
-  height:80px;
 }
 </div>
 
