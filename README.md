@@ -30,7 +30,7 @@
     body{
   margin:0;
   font-family: ui-sans-serif, system-ui, -apple-system, Segoe UI, Roboto, Helvetica, Arial;
-  color:var(--ink);
+  color:white;
 
   background:
     linear-gradient(rgba(0,0,0,0.45), rgba(0,0,0,0.45)),
